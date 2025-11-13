@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['delete_4',['Delete',['../classCSimpleIniTempl.html#aa5c1cdd0b306434d9e9f1422888049da',1,'CSimpleIniTempl']]],
-  ['deletevalue_5',['DeleteValue',['../classCSimpleIniTempl.html#a04551ae6c3e92475b2a823d2729652d6',1,'CSimpleIniTempl']]]
+  ['building_20and_20testing_0',['Building and Testing',['../md_README.html#autotoc_md3',1,'']]],
+  ['building_20with_20cmake_1',['Building with CMake',['../md_README.html#autotoc_md4',1,'']]]
 ];
